@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @darthnall
 - 👀 I’m interested in iOS App development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on Discord bots
 - 📫 How to reach me blake.nall21@gmail.com
 
