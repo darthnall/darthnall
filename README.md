@@ -2,7 +2,7 @@
 - 👀 I’m interested in iOS App development
 - 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on Discord bots
-- 📫 How to reach me blake.nall21@gmail.com
+- 📫 How to reach me me@blakenall.com
 
 <!---
 darthnall/darthnall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
