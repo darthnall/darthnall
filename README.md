@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @darthnall
-- 👀 I’m interested in iOS App development
+- 👀 I’m interested in Artifical Intelligence development
 - 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on Discord bots
-- 📫 How to reach me contact@blakenall.com
+- 📫 How to reach me contact@darthnall.com
 
 <!---
 darthnall/darthnall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
